@@ -1,0 +1,22 @@
+body {
+	/*background-color: orange;*/
+	background-image: url("../download.jpg");
+	margin: 100px 50px 40px 30px;
+	border-style: solid;
+	border-color: cyan;
+}
+
+h1, h2 {
+	text-align: center;
+	border: solid 2px green;
+}
+
+h1 {
+	color: red;
+	font-size: 38px;
+}
+
+h2 {
+	font-family: "Comic Sans MS";
+	background-color: aqua;
+}
