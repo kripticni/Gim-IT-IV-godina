@@ -1,0 +1,46 @@
+body {
+	background-color: yellow;
+}
+h1 {
+	font-size: 70px;
+	color: green;
+}
+h2 {
+	background-color: hotpink;
+	font-size: 25px;
+	color: blue;
+}
+h1, h2 {
+	text-align: center;
+	font-family: Comic Sans MS;
+}
+p {
+	font-size: 22px;
+	color: crimson;
+}
+#bio {
+	border: 3px dashed red;
+	text-align: center;
+	color: red;
+}
+#pa {
+	text-align: right;
+	font-size: 24px;
+	color: aqua;
+}
+.k1 {
+	
+}
+.k2 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-left: dashed red 2px
+}
+.br {
+	font-family: Comic Sans MS;
+	background-color: lime;
+	border: 2px dotted teal
+}
+
+
