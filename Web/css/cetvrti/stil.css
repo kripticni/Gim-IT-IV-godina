@@ -1,0 +1,70 @@
+body {
+	background-color: yellow;
+	color: red;
+}
+
+h1 {
+	text-align: center;
+	font-family: Arial;
+	font-style: italic;
+	text-decoration: underline;
+}
+
+table {
+	width: 80%;
+	border-top-style: dashed;
+	border-width: 2px;
+	border-color: green;
+}
+
+th, td {
+	height: 80px;
+	text-align: right;
+	vertical-align: bottom;
+}
+
+th {
+	background-color: green;
+}
+
+img {
+	width: 300px;
+}
+
+ol {
+	list-style-type: lower-alpha;
+}
+
+a:link {
+	color: red;
+}
+
+a:active {
+	color: orange;
+}
+
+p {
+	font-family: Comic Sans MS;
+	font-size: 1.2em;
+}
+
+.levo {
+	background-image: url("Bc.jpg");
+	width: 300px;
+	float: left;
+}
+
+.kolona {
+	width: 30%;
+	float: left;
+	border: 2px dashed blue;
+}
+
+.desno {
+	width: 300px;
+	float: left;
+	margin-left: 150px;
+}
+#sr {
+	vertical-align: top;
+}
