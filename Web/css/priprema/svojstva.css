@@ -1,0 +1,60 @@
+body {
+	background-color: yellow;
+	font-family: Arial;
+	font-size: 16px;
+}
+
+#br {
+	text-align: center;
+	font-weight: italic;
+	color: green;
+}
+
+.prva {
+	width: 50%;
+	float: left;
+}
+
+.druga {
+	width: 20%;
+	float: right;
+}
+
+table thead td {
+	background-color: red;
+	color: white;
+}
+
+table tbody td {
+	height: 60px;
+	vertical-align: top;
+	text-align: center;
+}
+
+table {
+	border: 2px solid black;
+	width: 100%;
+}
+
+table td { 
+	border: 2px solid black;
+}
+
+ol {
+	color: limegreen;
+	text-transform: lowercase;
+}
+
+p {
+	width: 25%;
+	border: 3px dashed red;
+	margin: 120px;
+}
+
+a:link {
+	color: blue;
+}
+
+a:active {
+	color: red;
+}
